@@ -933,6 +933,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:folderid">-1</property>
   <property name="kdenlive:audio_max1">159</property>
   <property name="mute_on_pause">0</property>
+  <property name="kdenlive:monitorPosition">0</property>
  </chain>
  <producer id="producer5" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
@@ -998,7 +999,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:uniqueId">{742f622e-db3c-42c8-a880-48125db58080}</property>
   <property name="kdenlive:file_hash">0910ad976957a3863214421d7d1bd6a2</property>
   <property name="force_reload">0</property>
-  <property name="kdenlive:monitorPosition">0</property>
+  <property name="kdenlive:monitorPosition">1</property>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1920</property>
  </producer>
@@ -1032,7 +1033,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:uniqueId">{85bce351-0696-4a90-9ad2-f0d1d37a222d}</property>
   <property name="kdenlive:file_hash">0b6af78daec7213fabf785eaf90113a1</property>
   <property name="force_reload">0</property>
-  <property name="kdenlive:monitorPosition">0</property>
+  <property name="kdenlive:monitorPosition">56</property>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1920</property>
  </producer>
@@ -1100,7 +1101,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:uniqueId">{4ef462c7-1a68-4e21-86e7-c166997058e0}</property>
   <property name="kdenlive:file_hash">f182dd9cf3d60e68c3479cf8abe10744</property>
   <property name="force_reload">0</property>
-  <property name="kdenlive:monitorPosition">0</property>
+  <property name="kdenlive:monitorPosition">26</property>
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1920</property>
  </producer>
@@ -1581,7 +1582,7 @@ Note: In most cases, our captions are auto-generated.
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:file_size">192144</property>
   <property name="kdenlive:file_hash">0e8370847b61ed215e55023646e761dd</property>
-  <property name="kdenlive:monitorPosition">0</property>
+  <property name="kdenlive:monitorPosition">7</property>
  </producer>
  <producer id="producer24" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
@@ -2020,7 +2021,7 @@ Note: In most cases, our captions are auto-generated.
   <property name="kdenlive:file_size">89211</property>
   <property name="kdenlive:file_hash">ad2f0af0cb82d25162bc82195ee6677e</property>
  </producer>
- <producer id="producer0" in="00:00:00.000" out="00:05:47.367">
+ <producer id="producer0" in="00:00:00.000" out="00:05:32.100">
   <property name="length">2147483647</property>
   <property name="eof">continue</property>
   <property name="resource">black</property>
@@ -2319,14 +2320,14 @@ https://facebook.com/charlixcxmusic
   <entry in="00:01:15.800" out="00:01:23.567" producer="chain0">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry in="00:01:44.767" out="00:02:01.200" producer="chain0">
+  <entry in="00:01:51.500" out="00:01:51.700" producer="chain0">
    <property name="kdenlive:id">4</property>
   </entry>
  </playlist>
  <playlist id="playlist11">
   <property name="kdenlive:audio_track">1</property>
  </playlist>
- <tractor id="tractor5" in="00:00:00.000" out="00:00:47.333">
+ <tractor id="tractor5" in="00:00:00.000" out="00:00:31.100">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
@@ -2395,26 +2396,95 @@ https://facebook.com/charlixcxmusic
  <producer id="producer6" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/schmilly/Downloads/HousingRally_MillieGryphon_Small-35.jpg</property>
+  <property name="resource">/home/schmilly/Downloads/RAHU_Primary_colour_logo.svg</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="meta.media.progressive">1</property>
   <property name="seekable">1</property>
-  <property name="format">1</property>
-  <property name="meta.media.width">1350</property>
-  <property name="meta.media.height">759</property>
+  <property name="format">2</property>
+  <property name="meta.media.width">1335</property>
+  <property name="meta.media.height">1335</property>
   <property name="mlt_service">qimage</property>
   <property name="kdenlive:duration">00:00:05:00</property>
   <property name="xml">was here</property>
   <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">66</property>
-  <property name="kdenlive:control_uuid">{47adf238-05e3-4225-97d3-379d34ab391a}</property>
+  <property name="kdenlive:id">96</property>
+  <property name="kdenlive:control_uuid">{f10f5701-72d4-4a96-bcfa-d47c18144e9b}</property>
   <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:file_size">1083720</property>
-  <property name="kdenlive:file_hash">d629ebbbcb359ce338a874ddc12142a8</property>
+  <property name="kdenlive:file_size">122485</property>
+  <property name="kdenlive:file_hash">28bb267b119c80624732a1e6b1aa72c2</property>
+  <property name="kdenlive:monitorPosition">3</property>
+ </producer>
+ <producer id="producer7" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">150</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="meta.media.progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="kdenlive:clipname">rahu.org.au/...</property>
+  <property name="xmldata">&lt;kdenlivetitle LC_NUMERIC="C" duration="150" height="1920" out="149" width="1920">
+ &lt;item type="QGraphicsTextItem" z-index="0">
+  &lt;position x="196" y="824">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content alignment="0" box-height="273" box-width="1527.7" font="Noto Sans" font-color="255,255,255,255" font-italic="0" font-outline="0" font-outline-color="0,0,0,255" font-pixel-size="200" font-underline="0" font-weight="400" letter-spacing="0" shadow="0;#64000000;3;3;3" tab-width="80" typewriter="0;2;1;0;0">rahu.org.au/join&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1920"/>
+ &lt;endviewport rect="0,0,1920,1920"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">28</property>
+  <property name="kdenlive:id">98</property>
+  <property name="kdenlive:control_uuid">{b8e9eb8f-0021-447f-b92f-6d425ce2ab28}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:uniqueId">{ed26aa89-5d54-4030-8a82-7e6c919425c3}</property>
+  <property name="kdenlive:file_hash">f41a3938ba33a433d121010cba440cd7</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1920</property>
   <property name="kdenlive:monitorPosition">0</property>
  </producer>
  <playlist id="playlist14">
+  <blank length="00:00:10.233"/>
+  <entry in="00:00:00.000" out="00:00:00.267" producer="producer6">
+   <property name="kdenlive:id">96</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter22">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.transparency</property>
+    <property name="kdenlive_id">frei0r.transparency</property>
+    <property name="0">00:00:00.000=0.25</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:20.067"/>
+  <entry in="00:00:00.000" out="00:00:00.267" producer="producer6">
+   <property name="kdenlive:id">96</property>
+   <filter id="filter23">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.transparency</property>
+    <property name="kdenlive_id">frei0r.transparency</property>
+    <property name="0">00:00:00.000=0.25</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:01.167" producer="producer7">
+   <property name="kdenlive:id">98</property>
+  </entry>
+ </playlist>
+ <playlist id="playlist15"/>
+ <tractor id="tractor7" in="00:00:00.000" out="00:00:32.067">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <track hide="audio" producer="playlist14"/>
+  <track hide="audio" producer="playlist15"/>
+ </tractor>
+ <playlist id="playlist16">
   <blank length="00:00:01.367"/>
   <entry in="00:00:00.000" out="00:00:00.767" producer="producer1">
    <property name="kdenlive:id">16</property>
@@ -2444,7 +2514,7 @@ https://facebook.com/charlixcxmusic
   <blank length="00:00:00.167"/>
   <entry in="00:00:00.000" out="00:00:00.000" producer="producer4">
    <property name="kdenlive:id">25</property>
-   <filter id="filter22">
+   <filter id="filter24">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -2458,7 +2528,7 @@ https://facebook.com/charlixcxmusic
   <blank length="00:00:00.167"/>
   <entry in="00:00:00.000" out="00:00:00.000" producer="producer4">
    <property name="kdenlive:id">25</property>
-   <filter id="filter23">
+   <filter id="filter25">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -2468,32 +2538,18 @@ https://facebook.com/charlixcxmusic
     <property name="rotation">00:00:00.000=0</property>
    </filter>
   </entry>
-  <blank length="00:00:18.900"/>
-  <entry in="00:00:00.000" out="00:00:03.700" producer="producer6">
-   <property name="kdenlive:id">66</property>
-   <filter id="filter24">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-1157 -785 3506 3506 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
  </playlist>
- <playlist id="playlist15"/>
- <tractor id="tractor7" in="00:00:00.000" out="00:00:33.133">
+ <playlist id="playlist17"/>
+ <tractor id="tractor8" in="00:00:00.000" out="00:00:10.500">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist14"/>
-  <track hide="audio" producer="playlist15"/>
+  <track hide="audio" producer="playlist16"/>
+  <track hide="audio" producer="playlist17"/>
  </tractor>
- <producer id="producer7" in="00:00:00.000" out="00:00:01.067">
+ <producer id="producer8" in="00:00:00.000" out="00:00:01.067">
   <property name="length">00:00:01.133</property>
   <property name="eof">pause</property>
   <property name="resource">20.000000:/home/schmilly/Downloads/Rental affordability worst on record, report finds _ ABC NEWS 720-39-58.mp4</property>
@@ -2611,7 +2667,7 @@ Note: In most cases, our captions are auto-generated.
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer8" in="00:00:00.000" out="00:00:00.867">
+ <producer id="producer11" in="00:00:00.000" out="00:00:00.867">
   <property name="length">00:00:00.933</property>
   <property name="eof">pause</property>
   <property name="resource">25.000000:/home/schmilly/Downloads/Rental affordability worst on record, report finds _ ABC NEWS 720-39-58.mp4</property>
@@ -2729,11 +2785,11 @@ Note: In most cases, our captions are auto-generated.
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <playlist id="playlist16">
+ <playlist id="playlist18">
   <blank length="00:00:05.800"/>
   <entry in="00:00:00.000" out="00:00:00.567" producer="producer5">
    <property name="kdenlive:id">24</property>
-   <filter id="filter25">
+   <filter id="filter26">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -2743,7 +2799,7 @@ Note: In most cases, our captions are auto-generated.
     <property name="rotation">00:00:00.000=0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter26">
+   <filter id="filter27">
     <property name="color">00:00:00.000=#b4636363</property>
     <property name="radius">1</property>
     <property name="x">8</property>
@@ -2753,9 +2809,9 @@ Note: In most cases, our captions are auto-generated.
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:00.000" out="00:00:00.467" producer="producer7">
+  <entry in="00:00:00.000" out="00:00:00.467" producer="producer8">
    <property name="kdenlive:id">32</property>
-   <filter id="filter27" out="00:00:00.467">
+   <filter id="filter28" out="00:00:00.467">
     <property name="delta">00:00:00.000=14</property>
     <property name="every">00:00:00.000=20</property>
     <property name="brightnessdelta_up">00:00:00.000=20</property>
@@ -2768,9 +2824,9 @@ Note: In most cases, our captions are auto-generated.
     <property name="kdenlive_id">oldfilm</property>
    </filter>
   </entry>
-  <entry in="00:00:00.533" out="00:00:00.867" producer="producer8">
+  <entry in="00:00:00.533" out="00:00:00.867" producer="producer11">
    <property name="kdenlive:id">32</property>
-   <filter id="filter28" in="00:00:00.533" out="00:00:00.867">
+   <filter id="filter29" in="00:00:00.533" out="00:00:00.867">
     <property name="delta">00:00:00.367=14</property>
     <property name="every">00:00:00.367=20</property>
     <property name="brightnessdelta_up">00:00:00.367=20</property>
@@ -2789,7 +2845,7 @@ Note: In most cases, our captions are auto-generated.
   <blank length="00:00:02.000"/>
   <entry in="00:00:00.000" out="00:00:00.033" producer="producer4">
    <property name="kdenlive:id">25</property>
-   <filter id="filter29">
+   <filter id="filter30">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -2803,7 +2859,7 @@ Note: In most cases, our captions are auto-generated.
   <blank length="00:00:00.133"/>
   <entry in="00:00:00.000" out="00:00:00.033" producer="producer4">
    <property name="kdenlive:id">25</property>
-   <filter id="filter30">
+   <filter id="filter31">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -2813,32 +2869,44 @@ Note: In most cases, our captions are auto-generated.
     <property name="rotation">00:00:00.000=0</property>
    </filter>
   </entry>
-  <blank length="00:00:18.300"/>
-  <entry in="00:00:00.000" out="00:00:00.567" producer="producer6">
-   <property name="kdenlive:id">66</property>
-   <filter id="filter31">
+  <blank length="00:00:20.133"/>
+  <entry in="00:00:00.000" out="00:00:00.000" producer="producer4">
+   <property name="kdenlive:id">25</property>
+   <filter id="filter32">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-1157 -785 3506 3506 1.000000</property>
+    <property name="rect">00:00:00.000=0 1072 1920 1920 1.000000</property>
     <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.167"/>
+  <entry in="00:00:00.000" out="00:00:00.000" producer="producer4">
+   <property name="kdenlive:id">25</property>
+   <filter id="filter33">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=0 1072 1920 1920 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
    </filter>
   </entry>
  </playlist>
- <playlist id="playlist17"/>
- <tractor id="tractor8" in="00:00:00.000" out="00:00:29.400">
+ <playlist id="playlist19"/>
+ <tractor id="tractor9" in="00:00:00.000" out="00:00:30.867">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist16"/>
-  <track hide="audio" producer="playlist17"/>
+  <track hide="audio" producer="playlist18"/>
+  <track hide="audio" producer="playlist19"/>
  </tractor>
- <producer id="producer11" in="00:00:00.000" out="00:00:03.200">
+ <producer id="producer12" in="00:00:00.000" out="00:00:03.200">
   <property name="length">00:00:03.267</property>
   <property name="eof">pause</property>
   <property name="resource">5.180130:/home/schmilly/Downloads/Rental affordability in Australia the worst it's ever been, report says _ ABC News 720-41-54.mp4</property>
@@ -2954,11 +3022,11 @@ Note: In most cases, our captions are auto-generated.
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <playlist id="playlist18">
+ <playlist id="playlist20">
   <blank length="00:00:00.467"/>
-  <entry in="00:00:00.000" out="00:00:00.867" producer="producer11">
+  <entry in="00:00:00.000" out="00:00:00.867" producer="producer12">
    <property name="kdenlive:id">14</property>
-   <filter id="filter32" out="00:00:00.867">
+   <filter id="filter34" out="00:00:00.867">
     <property name="delta">00:00:00.000=14</property>
     <property name="every">00:00:00.000=20</property>
     <property name="brightnessdelta_up">00:00:00.000=20</property>
@@ -2980,32 +3048,48 @@ Note: In most cases, our captions are auto-generated.
   <entry in="00:00:00.000" out="00:00:00.067" producer="producer4">
    <property name="kdenlive:id">25</property>
   </entry>
-  <blank length="00:00:18.033"/>
-  <entry in="00:00:00.000" out="00:00:00.233" producer="producer6">
-   <property name="kdenlive:id">66</property>
-   <filter id="filter33">
+  <blank length="00:00:19.300"/>
+  <entry in="00:00:00.000" out="00:00:00.233" producer="producer3">
+   <property name="kdenlive:id">17</property>
+  </entry>
+  <blank length="00:00:00.533"/>
+  <entry in="00:00:00.000" out="00:00:00.033" producer="producer4">
+   <property name="kdenlive:id">25</property>
+   <filter id="filter35">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-1157 -785 3506 3506 1.000000</property>
+    <property name="rect">00:00:00.000=0 712 1920 1920 1.000000</property>
     <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.133"/>
+  <entry in="00:00:00.000" out="00:00:00.033" producer="producer4">
+   <property name="kdenlive:id">25</property>
+   <filter id="filter36">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=0 712 1920 1920 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
    </filter>
   </entry>
  </playlist>
- <playlist id="playlist19"/>
- <tractor id="tractor9" in="00:00:00.000" out="00:00:28.800">
+ <playlist id="playlist21"/>
+ <tractor id="tractor10" in="00:00:00.000" out="00:00:30.867">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist18"/>
-  <track hide="audio" producer="playlist19"/>
+  <track hide="audio" producer="playlist20"/>
+  <track hide="audio" producer="playlist21"/>
  </tractor>
- <producer id="producer12" in="00:00:00.000" out="00:00:07.867">
+ <producer id="producer13" in="00:00:00.000" out="00:00:07.867">
   <property name="length">00:00:07.933</property>
   <property name="eof">pause</property>
   <property name="resource">5.000000:/home/schmilly/Downloads/Snapinsta.app_video_AQOQuqFCeDSXydP-CaryKzl5sOIpkmAUJLetswJaKp_pol64P4qjbZcu-xpRnpt34wN5SEljOGhs-3Zn11pszoo8c5rqdEfaRijXHnQ.mp4</property>
@@ -3068,12 +3152,12 @@ Note: In most cases, our captions are auto-generated.
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <playlist id="playlist20">
+ <playlist id="playlist22">
   <blank length="00:00:01.367"/>
   <entry in="00:00:00.000" out="00:00:00.767" producer="producer9">
    <property name="kdenlive:id">19</property>
    <property name="kdenlive:activeeffect">2</property>
-   <filter id="filter34">
+   <filter id="filter37">
     <property name="color">00:00:00.000=0x636363b4</property>
     <property name="radius">1</property>
     <property name="x">8</property>
@@ -3082,16 +3166,16 @@ Note: In most cases, our captions are auto-generated.
     <property name="kdenlive_id">dropshadow</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter35">
+   <filter id="filter38">
     <property name="mlt_service">invert</property>
     <property name="kdenlive_id">invert</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <blank length="00:00:08.733"/>
-  <entry in="00:00:00.000" out="00:00:00.867" producer="producer12">
+  <entry in="00:00:00.000" out="00:00:00.867" producer="producer13">
    <property name="kdenlive:id">5</property>
-   <filter id="filter36">
+   <filter id="filter39">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3102,32 +3186,29 @@ Note: In most cases, our captions are auto-generated.
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:16.600"/>
-  <entry in="00:00:00.000" out="00:00:00.133" producer="producer6">
-   <property name="kdenlive:id">66</property>
-   <filter id="filter37">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-1157 -785 3506 3506 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
+  <blank length="00:00:17.833"/>
+  <entry in="00:00:00.000" out="00:00:00.933" producer="producer40">
+   <property name="kdenlive:id">15</property>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.067" producer="producer4">
+   <property name="kdenlive:id">25</property>
+  </entry>
+  <blank length="00:00:00.100"/>
+  <entry in="00:00:00.000" out="00:00:00.067" producer="producer4">
+   <property name="kdenlive:id">25</property>
   </entry>
  </playlist>
- <playlist id="playlist21"/>
- <tractor id="tractor10" in="00:00:00.000" out="00:00:28.533">
+ <playlist id="playlist23"/>
+ <tractor id="tractor11" in="00:00:00.000" out="00:00:30.867">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist20"/>
-  <track hide="audio" producer="playlist21"/>
+  <track hide="audio" producer="playlist22"/>
+  <track hide="audio" producer="playlist23"/>
  </tractor>
- <producer id="producer13" in="00:00:00.000" out="00:00:04.433">
+ <producer id="producer14" in="00:00:00.000" out="00:00:04.433">
   <property name="length">00:00:04.467</property>
   <property name="eof">pause</property>
   <property name="resource">3.750000:/home/schmilly/Downloads/Rental affordability in Australia the worst it's ever been, report says _ ABC News 720-41-54.mp4</property>
@@ -3243,7 +3324,7 @@ Note: In most cases, our captions are auto-generated.
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer14" in="00:00:00.000" out="00:00:10.833">
+ <producer id="producer18" in="00:00:00.000" out="00:00:10.833">
   <property name="length">00:00:10.867</property>
   <property name="eof">pause</property>
   <property name="resource">1.550000:/home/schmilly/Downloads/Rental affordability in Australia the worst it's ever been, report says _ ABC News 720-41-54.mp4</property>
@@ -3359,7 +3440,7 @@ Note: In most cases, our captions are auto-generated.
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer18" in="00:00:00.000" out="00:00:01.333">
+ <producer id="producer19" in="00:00:00.000" out="00:00:01.333">
   <property name="length">00:00:01.400</property>
   <property name="eof">pause</property>
   <property name="resource">10.000000:/home/schmilly/Downloads/Rent affordability in South Australia has plummeted to its lowest level on record _ 7 News Australia 720-0-13.mp4</property>
@@ -3474,55 +3555,11 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer19" in="00:00:00.000" out="00:00:04.967">
-  <property name="length">00:00:05.000</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/schmilly/Downloads/HousingRally_MillieGryphon_Small-20.jpg</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="format">1</property>
-  <property name="meta.media.width">1350</property>
-  <property name="meta.media.height">900</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:duration">00:00:05:00</property>
-  <property name="xml">was here</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">67</property>
-  <property name="kdenlive:control_uuid">{1936b761-ce35-4589-827f-16a5ce3b32d0}</property>
-  <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:file_size">1360306</property>
-  <property name="kdenlive:file_hash">df73d6b60bca7932f6a5b4ee816c8560</property>
-  <property name="kdenlive:monitorPosition">0</property>
- </producer>
- <producer id="producer20" in="00:00:00.000" out="00:00:04.967">
-  <property name="length">00:00:05.000</property>
-  <property name="eof">pause</property>
-  <property name="resource">/home/schmilly/Downloads/HousingRally_MillieGryphon_Small-21.jpg</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="meta.media.progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="format">1</property>
-  <property name="meta.media.width">1080</property>
-  <property name="meta.media.height">1350</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:duration">00:00:05:00</property>
-  <property name="xml">was here</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">68</property>
-  <property name="kdenlive:control_uuid">{3e72efcc-ef49-4986-aa87-367d0c9a01b4}</property>
-  <property name="kdenlive:clip_type">2</property>
-  <property name="kdenlive:file_size">1494951</property>
-  <property name="kdenlive:file_hash">d496c9ac6d90ce5f031e24885fde1948</property>
-  <property name="kdenlive:monitorPosition">0</property>
- </producer>
- <playlist id="playlist22">
+ <playlist id="playlist24">
   <blank length="00:00:02.167"/>
-  <entry in="00:00:02.367" out="00:00:02.600" producer="producer13">
+  <entry in="00:00:02.367" out="00:00:02.600" producer="producer14">
    <property name="kdenlive:id">14</property>
-   <filter id="filter38" in="00:00:02.367" out="00:00:02.600">
+   <filter id="filter40" in="00:00:02.367" out="00:00:02.600">
     <property name="delta">00:00:00.267=14</property>
     <property name="every">00:00:00.267=20</property>
     <property name="brightnessdelta_up">00:00:00.267=20</property>
@@ -3536,9 +3573,9 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:08.533" out="00:00:09.933" producer="producer14">
+  <entry in="00:00:08.533" out="00:00:09.933" producer="producer18">
    <property name="kdenlive:id">14</property>
-   <filter id="filter39" in="00:00:08.533" out="00:00:09.933">
+   <filter id="filter41" in="00:00:08.533" out="00:00:09.933">
     <property name="delta">00:00:01.433=14</property>
     <property name="every">00:00:01.433=20</property>
     <property name="brightnessdelta_up">00:00:01.433=20</property>
@@ -3554,12 +3591,12 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <entry in="00:00:00.000" out="00:00:00.967" producer="producer10">
    <property name="kdenlive:id">20</property>
    <property name="kdenlive:activeeffect">2</property>
-   <filter id="filter40">
+   <filter id="filter42">
     <property name="mlt_service">invert</property>
     <property name="kdenlive_id">invert</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter41">
+   <filter id="filter43">
     <property name="color">00:00:00.000=0x636363b4</property>
     <property name="radius">1</property>
     <property name="x">8</property>
@@ -3568,7 +3605,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive_id">dropshadow</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter42">
+   <filter id="filter44">
     <property name="mlt_service">avfilter.pixelize</property>
     <property name="kdenlive_id">avfilter.pixelize</property>
     <property name="av.width">16</property>
@@ -3581,9 +3618,9 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="position">frame</property>
    </filter>
   </entry>
-  <entry in="00:00:00.100" out="00:00:01.000" producer="producer18">
+  <entry in="00:00:00.100" out="00:00:01.000" producer="producer19">
    <property name="kdenlive:id">23</property>
-   <filter id="filter43" in="00:00:00.100" out="00:00:01.000">
+   <filter id="filter45" in="00:00:00.100" out="00:00:01.000">
     <property name="delta">00:00:00.100=14</property>
     <property name="every">00:00:00.100=20</property>
     <property name="brightnessdelta_up">00:00:00.100=20</property>
@@ -3603,7 +3640,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <blank length="00:00:00.133"/>
   <entry in="00:00:00.000" out="00:00:00.033" producer="producer4">
    <property name="kdenlive:id">25</property>
-   <filter id="filter44">
+   <filter id="filter46">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3617,7 +3654,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <blank length="00:00:00.133"/>
   <entry in="00:00:00.000" out="00:00:00.033" producer="producer4">
    <property name="kdenlive:id">25</property>
-   <filter id="filter45">
+   <filter id="filter47">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -3628,50 +3665,20 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:08.633"/>
-  <entry in="00:00:00.000" out="00:00:00.067" producer="producer16">
-   <property name="kdenlive:id">40</property>
-   <filter id="filter46">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-294 6 1920 1920 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:08.900"/>
-  <entry in="00:00:00.000" out="00:00:00.200" producer="producer6">
-   <property name="kdenlive:id">66</property>
-   <filter id="filter47">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-1157 -785 3506 3506 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry in="00:00:00.000" out="00:00:00.133" producer="producer19">
-   <property name="kdenlive:id">67</property>
-  </entry>
-  <entry in="00:00:00.000" out="00:00:00.233" producer="producer20">
-   <property name="kdenlive:id">68</property>
+  <blank length="00:00:19.867"/>
+  <entry in="00:00:00.000" out="00:00:00.133" producer="producer3">
+   <property name="kdenlive:id">17</property>
   </entry>
  </playlist>
- <playlist id="playlist23"/>
- <tractor id="tractor11" in="00:00:00.000" out="00:00:28.800">
+ <playlist id="playlist25"/>
+ <tractor id="tractor12" in="00:00:00.000" out="00:00:30.533">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist22"/>
-  <track hide="audio" producer="playlist23"/>
+  <track hide="audio" producer="playlist24"/>
+  <track hide="audio" producer="playlist25"/>
  </tractor>
  <chain id="chain1" out="00:00:11.000">
   <property name="length">00:00:11.067</property>
@@ -3739,8 +3746,71 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
- <producer id="producer21" in="00:00:00.000" out="00:01:14.933">
+ <producer id="producer20" in="00:00:00.000" out="00:01:14.933">
   <property name="length">00:01:15.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">1.500000:/home/schmilly/Downloads/Snapinsta.app_video_AQN_aOj9Z9cVqWd2t-0apPQvxI41SmquY7ZoMtebjN9RI7HXMyQo2keM-Nl1oGgvNj3KBQLqQlh5WMtY3aIhDyHPtSG5yoODnFEsYEQ.mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">720</property>
+  <property name="meta.media.0.codec.height">1280</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2533744</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.0.stream.encoder.markup">AVC Coding</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">87450</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="warp_speed">1.5</property>
+  <property name="warp_resource">/home/schmilly/Downloads/Snapinsta.app_video_AQN_aOj9Z9cVqWd2t-0apPQvxI41SmquY7ZoMtebjN9RI7HXMyQo2keM-Nl1oGgvNj3KBQLqQlh5WMtY3aIhDyHPtSG5yoODnFEsYEQ.mp4</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="kdenlive:control_uuid">{66d5305f-da2b-43fd-aeee-a8c8dbafe24c}</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="kdenlive:id">6</property>
+  <property name="warp_pitch">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">720</property>
+  <property name="meta.media.height">1280</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer21" in="00:00:00.000" out="00:01:14.967">
+  <property name="length">2249</property>
   <property name="eof">pause</property>
   <property name="resource">1.500000:/home/schmilly/Downloads/Snapinsta.app_video_AQN_aOj9Z9cVqWd2t-0apPQvxI41SmquY7ZoMtebjN9RI7HXMyQo2keM-Nl1oGgvNj3KBQLqQlh5WMtY3aIhDyHPtSG5yoODnFEsYEQ.mp4</property>
   <property name="aspect_ratio">1</property>
@@ -4344,7 +4414,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:file_size">27885725</property>
   <property name="kdenlive:file_hash">9b0cc9c4cba4a69c33709acbb062febc</property>
-  <property name="kdenlive:monitorPosition">0</property>
+  <property name="kdenlive:monitorPosition">6</property>
  </producer>
  <producer id="producer52" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
@@ -4366,7 +4436,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:clip_type">2</property>
   <property name="kdenlive:file_size">177722</property>
   <property name="kdenlive:file_hash">a24ac7eeafd6a1ccd6676a43d78fff9c</property>
-  <property name="kdenlive:monitorPosition">0</property>
+  <property name="kdenlive:monitorPosition">1</property>
  </producer>
  <producer id="producer53" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
@@ -4520,7 +4590,73 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer56" in="00:00:00.000" out="00:00:04.967">
+ <producer id="producer56" in="00:00:00.000" out="00:00:07.233">
+  <property name="length">218</property>
+  <property name="eof">pause</property>
+  <property name="resource">3.000000:/home/schmilly/Downloads/16398510-45a1-4303-a254-3450404d17b8.mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">25</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1024</property>
+  <property name="meta.media.0.codec.height">576</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">474252</property>
+  <property name="meta.attr.0.stream.creation_time.markup">2022-06-29T15:01:48.000000Z</property>
+  <property name="meta.attr.0.stream.handler_name.markup">Vireo Eyes v2.9.0</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.0.stream.encoder.markup">AVC Coding</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">128008</property>
+  <property name="meta.attr.1.stream.creation_time.markup">2022-06-29T15:01:48.000000Z</property>
+  <property name="meta.attr.1.stream.handler_name.markup">Vireo Ears v2.9.0</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">0</property>
+  <property name="meta.attr.compatible_brands.markup">mp42mp41iso4</property>
+  <property name="meta.attr.creation_time.markup">2022-06-29T15:01:48.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="warp_speed">3</property>
+  <property name="warp_resource">/home/schmilly/Downloads/16398510-45a1-4303-a254-3450404d17b8.mp4</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="kdenlive:control_uuid">{8bbe74e1-fb83-402e-bb81-56d7757725b6}</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="kdenlive:id">56</property>
+  <property name="warp_pitch">0</property>
+  <property name="meta.media.frame_rate_num">25</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">1024</property>
+  <property name="meta.media.height">576</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer57" in="00:00:00.000" out="00:00:04.967">
   <property name="length">00:00:05.000</property>
   <property name="eof">pause</property>
   <property name="resource">/home/schmilly/Downloads/20220809 Rent Is Too High - Launch Post.png</property>
@@ -4542,7 +4678,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:file_hash">210d1c74fbb13ec866716cc7ec184b21</property>
   <property name="kdenlive:monitorPosition">0</property>
  </producer>
- <producer id="producer57" in="00:00:00.000" out="00:00:06.733">
+ <producer id="producer58" in="00:00:00.000" out="00:00:06.733">
   <property name="length">203</property>
   <property name="eof">pause</property>
   <property name="resource">5.500000:/home/schmilly/Downloads/rentstrike3.mov</property>
@@ -4612,7 +4748,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer58" in="00:00:00.000" out="00:00:09.267">
+ <producer id="producer59" in="00:00:00.000" out="00:00:09.267">
   <property name="length">279</property>
   <property name="eof">pause</property>
   <property name="resource">4.000000:/home/schmilly/Downloads/rentstrike3.mov</property>
@@ -4682,7 +4818,205 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <playlist id="playlist24">
+ <producer id="producer60" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/RAHU_in_solidarity_with_Queensland_tenants.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1600</property>
+  <property name="meta.media.height">1200</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">87</property>
+  <property name="kdenlive:control_uuid">{dc840fd5-7186-4dea-a62c-cf60dbfa6a68}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">463273</property>
+  <property name="kdenlive:file_hash">5748f75c18d802b72d4e638e2958351d</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer61" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/HousingRally_MillieGryphon_Small-35.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1350</property>
+  <property name="meta.media.height">759</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">66</property>
+  <property name="kdenlive:control_uuid">{47adf238-05e3-4225-97d3-379d34ab391a}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">1083720</property>
+  <property name="kdenlive:file_hash">d629ebbbcb359ce338a874ddc12142a8</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer62" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/HousingRally_MillieGryphon_Small-20.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1350</property>
+  <property name="meta.media.height">900</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">67</property>
+  <property name="kdenlive:control_uuid">{1936b761-ce35-4589-827f-16a5ce3b32d0}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">1360306</property>
+  <property name="kdenlive:file_hash">df73d6b60bca7932f6a5b4ee816c8560</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer63" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/HousingRally_MillieGryphon_Small-21.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1080</property>
+  <property name="meta.media.height">1350</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">68</property>
+  <property name="kdenlive:control_uuid">{3e72efcc-ef49-4986-aa87-367d0c9a01b4}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">1494951</property>
+  <property name="kdenlive:file_hash">d496c9ac6d90ce5f031e24885fde1948</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer64" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000641.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">81</property>
+  <property name="kdenlive:control_uuid">{e73862b2-56fa-40f1-b5f3-66dc33e34589}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">6345216</property>
+  <property name="kdenlive:file_hash">134d4508e05ba4546dbc183954a08a73</property>
+  <property name="kdenlive:monitorPosition">105</property>
+ </producer>
+ <producer id="producer65" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000654.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">77</property>
+  <property name="kdenlive:control_uuid">{bb9c2281-ada9-4e3a-8e5e-5207c1e82198}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">7885312</property>
+  <property name="kdenlive:file_hash">e86c6233013157d1ab8b52180b61359a</property>
+  <property name="kdenlive:monitorPosition">1</property>
+ </producer>
+ <producer id="producer66" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000650.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">80</property>
+  <property name="kdenlive:control_uuid">{286df073-751a-4342-bc02-3b7975ec2f7a}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">7343104</property>
+  <property name="kdenlive:file_hash">182ff18f7975499def5f129397c7d9de</property>
+  <property name="kdenlive:monitorPosition">1</property>
+ </producer>
+ <producer id="producer67" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000665.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">75</property>
+  <property name="kdenlive:control_uuid">{5317f238-e87b-4929-873c-0aeb95d8ac7c}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">8612352</property>
+  <property name="kdenlive:file_hash">e4c46bbcc91db984696d24e331598639</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer68" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/IMG_8645.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">2048</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">88</property>
+  <property name="kdenlive:control_uuid">{2bcfc710-45b4-4159-a98f-6e933f0367de}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">522176</property>
+  <property name="kdenlive:file_hash">81d4805bf569d1ed16e36facd1a9999a</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <playlist id="playlist26">
   <blank length="00:00:08.267"/>
   <entry in="00:00:00.000" out="00:00:01.833" producer="producer17">
    <property name="kdenlive:id">26</property>
@@ -4729,7 +5063,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:00.100" out="00:00:01.833" producer="producer21">
+  <entry in="00:00:00.100" out="00:00:00.433" producer="producer20">
    <property name="kdenlive:id">6</property>
    <filter id="filter51">
     <property name="rotate_center">1</property>
@@ -4742,9 +5076,22 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:13.500" out="00:00:14.333" producer="producer22">
+  <entry in="00:00:01.333" out="00:00:02.700" producer="producer21">
    <property name="kdenlive:id">6</property>
    <filter id="filter52">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:01.333=-429 6 1920 1920 1.000000</property>
+    <property name="rotation">00:00:01.333=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:13.500" out="00:00:14.333" producer="producer22">
+   <property name="kdenlive:id">6</property>
+   <filter id="filter53">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4757,7 +5104,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   </entry>
   <entry in="00:00:21.067" out="00:00:21.933" producer="producer46">
    <property name="kdenlive:id">6</property>
-   <filter id="filter53">
+   <filter id="filter54">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4770,7 +5117,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   </entry>
   <entry in="00:00:56.267" out="00:00:57.067" producer="producer47">
    <property name="kdenlive:id">7</property>
-   <filter id="filter54">
+   <filter id="filter55">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4783,7 +5130,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   </entry>
   <entry in="00:00:00.000" out="00:00:00.400" producer="chain2">
    <property name="kdenlive:id">42</property>
-   <filter id="filter55">
+   <filter id="filter56">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4796,7 +5143,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   </entry>
   <entry in="00:00:00.000" out="00:00:00.133" producer="producer48">
    <property name="kdenlive:id">8</property>
-   <filter id="filter56">
+   <filter id="filter57">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4825,54 +5172,14 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <entry in="00:00:00.000" out="00:00:00.367" producer="producer36">
    <property name="kdenlive:id">50</property>
   </entry>
-  <entry in="00:00:00.000" out="00:00:00.000" producer="producer16">
-   <property name="kdenlive:id">40</property>
-   <filter id="filter57">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-412 -18 2758 2747 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry in="00:00:00.000" out="00:00:00.000" producer="producer16">
+  <entry in="00:00:00.000" out="00:00:00.133" producer="producer16">
    <property name="kdenlive:id">40</property>
    <filter id="filter58">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-294 6 1920 1920 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <entry in="00:00:00.000" out="00:00:00.067" producer="producer16">
-   <property name="kdenlive:id">40</property>
-   <filter id="filter59">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
-    <property name="rect">00:00:00.000=634 6 1920 1920 1.000000</property>
-    <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter60">
-    <property name="mlt_service">crop</property>
-    <property name="kdenlive_id">crop</property>
-    <property name="top">0</property>
-    <property name="left">221</property>
-    <property name="bottom">0</property>
-    <property name="right">0</property>
-    <property name="center">0</property>
-    <property name="center_bias">0</property>
-    <property name="use_profile">1</property>
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:00.000=0;00:00:00.033=0.05;00:00:00.067=0.1;00:00:00.100=0.2;00:00:00.133=0.4</property>
+    <property name="columns">00:00:00.000=0;00:00:00.033=0.05;00:00:00.067=0.1;00:00:00.100=0.2;00:00:00.133=0.4</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
@@ -4896,35 +5203,156 @@ Instagram » https://www.instagram.com/7newsaustralia/
   </entry>
   <entry in="00:00:00.000" out="00:00:00.267" producer="producer37">
    <property name="kdenlive:id">51</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter59">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:00.000" out="00:00:00.133" producer="producer37">
    <property name="kdenlive:id">51</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter60">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:00.000" out="00:00:00.233" producer="producer38">
    <property name="kdenlive:id">55</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter61">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:00.000" out="00:00:00.200" producer="producer43">
    <property name="kdenlive:id">54</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter62">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:00.000" out="00:00:00.200" producer="producer44">
    <property name="kdenlive:id">53</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter63">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:00.000" out="00:00:00.167" producer="producer45">
    <property name="kdenlive:id">52</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter64">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:00.000" out="00:00:00.133" producer="producer49">
    <property name="kdenlive:id">58</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter65">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter66">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:00.000=0.05</property>
+    <property name="columns">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:02.033" out="00:00:02.233" producer="producer50">
    <property name="kdenlive:id">58</property>
+   <filter id="filter67">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:02.033=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:02.033=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter68">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:02.033=0.05</property>
+    <property name="columns">00:00:02.033=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:06.867" out="00:00:07.000" producer="chain3">
    <property name="kdenlive:id">58</property>
+   <filter id="filter69">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:06.867=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:06.867=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter70">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:06.867=0.05</property>
+    <property name="columns">00:00:06.867=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
   <entry in="00:00:00.000" out="00:00:00.200" producer="producer51">
    <property name="kdenlive:id">60</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter61">
+   <filter id="filter71">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4937,7 +5365,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   </entry>
   <entry in="00:00:00.000" out="00:00:00.033" producer="producer52">
    <property name="kdenlive:id">61</property>
-   <filter id="filter62">
+   <filter id="filter72">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4954,7 +5382,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <entry in="00:00:00.000" out="00:00:00.600" producer="producer54">
    <property name="kdenlive:id">59</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter63">
+   <filter id="filter73">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4965,9 +5393,9 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:00.000" out="00:00:01.333" producer="producer55">
+  <entry in="00:00:00.000" out="00:00:00.400" producer="producer55">
    <property name="kdenlive:id">56</property>
-   <filter id="filter64">
+   <filter id="filter74">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -4978,28 +5406,232 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:00.000" out="00:00:00.333" producer="producer56">
+  <entry in="00:00:00.433" out="00:00:01.333" producer="producer56">
+   <property name="kdenlive:id">56</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter75">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.433=-1384 -768 3456 3456 1.000000</property>
+    <property name="rotation">00:00:00.433=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter76">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:00.433=0.1</property>
+    <property name="columns">00:00:00.433=0.1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.333" producer="producer57">
    <property name="kdenlive:id">63</property>
   </entry>
-  <entry in="00:00:03.867" out="00:00:05.300" producer="producer57">
+  <entry in="00:00:03.867" out="00:00:05.233" producer="producer58">
    <property name="kdenlive:id">57</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter77">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:03.867=0.05</property>
+    <property name="columns">00:00:03.867=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter78">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:03.867=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:03.867=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
-  <entry in="00:00:07.667" out="00:00:08.100" producer="producer58">
+  <entry in="00:00:07.600" out="00:00:08.100" producer="producer59">
    <property name="kdenlive:id">57</property>
+   <property name="kdenlive:activeeffect">-1</property>
+   <filter id="filter79">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:07.600=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:07.600=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
   </entry>
-  <entry in="00:00:00.000" out="00:00:00.267" producer="producer41">
+  <entry in="00:00:00.000" out="00:00:00.100" producer="producer41">
    <property name="kdenlive:id">35</property>
   </entry>
+  <entry in="00:00:00.000" out="00:00:00.133" producer="producer60">
+   <property name="kdenlive:id">87</property>
+   <filter id="filter80">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-36 -372 2688 2688 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.200" producer="producer61">
+   <property name="kdenlive:id">66</property>
+   <filter id="filter81">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-1157 -785 3506 3506 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.133" producer="producer62">
+   <property name="kdenlive:id">67</property>
+   <filter id="filter82">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-149 -785 3506 3506 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.233" producer="producer63">
+   <property name="kdenlive:id">68</property>
+   <filter id="filter83">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-845 -141 3506 3506 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.100" producer="producer64">
+   <property name="kdenlive:id">81</property>
+   <filter id="filter84">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-87 -575 3456 3456 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.033" producer="producer65">
+   <property name="kdenlive:id">77</property>
+   <filter id="filter85">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-656 -846 3456 3456 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.067" producer="producer66">
+   <property name="kdenlive:id">80</property>
+   <filter id="filter86">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-376 -490 2880 2880 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.300" producer="producer67">
+   <property name="kdenlive:id">75</property>
+   <filter id="filter87">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-161 -699 3456 3456 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.133" producer="producer68">
+   <property name="kdenlive:id">88</property>
+   <property name="kdenlive:activeeffect">1</property>
+   <filter id="filter88">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=-480 -20 2880 2880 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter89">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:00.000=0</property>
+    <property name="columns">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:01.000"/>
+  <entry in="00:00:00.000" out="00:00:00.033" producer="producer4">
+   <property name="kdenlive:id">25</property>
+   <filter id="filter90">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=0 -296 1920 1920 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.133"/>
+  <entry in="00:00:00.000" out="00:00:00.033" producer="producer4">
+   <property name="kdenlive:id">25</property>
+   <filter id="filter91">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=0 -296 1920 1920 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+   </filter>
+  </entry>
  </playlist>
- <playlist id="playlist25"/>
- <tractor id="tractor12" in="00:00:00.000" out="00:00:28.133">
+ <playlist id="playlist27"/>
+ <tractor id="tractor13" in="00:00:00.000" out="00:00:30.867">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist24"/>
-  <track hide="audio" producer="playlist25"/>
+  <track hide="audio" producer="playlist26"/>
+  <track hide="audio" producer="playlist27"/>
  </tractor>
  <chain id="chain4" out="00:00:07.400">
   <property name="length">00:00:07.467</property>
@@ -5067,7 +5699,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
- <producer id="producer59" in="00:00:00.000" out="00:01:14.933">
+ <producer id="producer69" in="00:00:00.000" out="00:01:14.933">
   <property name="length">00:01:15.000</property>
   <property name="eof">pause</property>
   <property name="resource">1.500000:/home/schmilly/Downloads/Snapinsta.app_video_AQN_aOj9Z9cVqWd2t-0apPQvxI41SmquY7ZoMtebjN9RI7HXMyQo2keM-Nl1oGgvNj3KBQLqQlh5WMtY3aIhDyHPtSG5yoODnFEsYEQ.mp4</property>
@@ -5130,7 +5762,70 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer60" in="00:00:00.000" out="00:01:14.933">
+ <producer id="producer70" in="00:00:00.000" out="00:01:14.967">
+  <property name="length">2249</property>
+  <property name="eof">pause</property>
+  <property name="resource">1.500000:/home/schmilly/Downloads/Snapinsta.app_video_AQN_aOj9Z9cVqWd2t-0apPQvxI41SmquY7ZoMtebjN9RI7HXMyQo2keM-Nl1oGgvNj3KBQLqQlh5WMtY3aIhDyHPtSG5yoODnFEsYEQ.mp4</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">30</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">720</property>
+  <property name="meta.media.0.codec.height">1280</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2533744</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.attr.0.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.0.stream.encoder.markup">AVC Coding</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.layout">stereo</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">87450</property>
+  <property name="meta.attr.1.stream.handler_name.markup">SoundHandler</property>
+  <property name="meta.attr.1.stream.vendor_id.markup">[0][0][0][0]</property>
+  <property name="meta.attr.major_brand.markup">isom</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="format">3</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="warp_speed">1.5</property>
+  <property name="warp_resource">/home/schmilly/Downloads/Snapinsta.app_video_AQN_aOj9Z9cVqWd2t-0apPQvxI41SmquY7ZoMtebjN9RI7HXMyQo2keM-Nl1oGgvNj3KBQLqQlh5WMtY3aIhDyHPtSG5yoODnFEsYEQ.mp4</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="kdenlive:control_uuid">{66d5305f-da2b-43fd-aeee-a8c8dbafe24c}</property>
+  <property name="vstream">0</property>
+  <property name="astream">0</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+  <property name="kdenlive:id">6</property>
+  <property name="warp_pitch">0</property>
+  <property name="meta.media.frame_rate_num">30</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.has_b_frames">2</property>
+  <property name="meta.media.width">720</property>
+  <property name="meta.media.height">1280</property>
+  <property name="meta.media.aspect_ratio">1</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="producer71" in="00:00:00.000" out="00:01:14.933">
   <property name="length">00:01:15.000</property>
   <property name="eof">pause</property>
   <property name="resource">1.500000:/home/schmilly/Downloads/Snapinsta.app_video_AQN_aOj9Z9cVqWd2t-0apPQvxI41SmquY7ZoMtebjN9RI7HXMyQo2keM-Nl1oGgvNj3KBQLqQlh5WMtY3aIhDyHPtSG5yoODnFEsYEQ.mp4</property>
@@ -5193,7 +5888,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer61" in="00:00:00.000" out="00:01:14.933">
+ <producer id="producer72" in="00:00:00.000" out="00:01:14.933">
   <property name="length">00:01:15.000</property>
   <property name="eof">pause</property>
   <property name="resource">1.500000:/home/schmilly/Downloads/Snapinsta.app_video_AQN_aOj9Z9cVqWd2t-0apPQvxI41SmquY7ZoMtebjN9RI7HXMyQo2keM-Nl1oGgvNj3KBQLqQlh5WMtY3aIhDyHPtSG5yoODnFEsYEQ.mp4</property>
@@ -5256,7 +5951,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer id="producer62" in="00:00:00.000" out="00:02:05.467">
+ <producer id="producer73" in="00:00:00.000" out="00:02:05.467">
   <property name="length">00:02:05.600</property>
   <property name="eof">pause</property>
   <property name="resource">2.000000:/home/schmilly/Downloads/Snapinsta.app_video_AQM1KdYbIIdOkdcbdaCILpkWffSeNNOs_VrNQ4_RhOGJQgHfDhw6LFQd_8h4s15np9TyXp34iYqgWxPugsPOpFXWVsLoLxGvWtgpyI8.mp4</property>
@@ -5386,11 +6081,33 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </chain>
- <playlist id="playlist26">
+ <producer id="producer74" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">Art/Poster/Human Right.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">2</property>
+  <property name="meta.media.width">1620</property>
+  <property name="meta.media.height">2292</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">93</property>
+  <property name="kdenlive:control_uuid">{b4de7f12-fa3a-4d4f-bd43-c013ae4d1ba4}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">197840</property>
+  <property name="kdenlive:file_hash">ba92ecebd541c4a4a0bd9cbdba43f11a</property>
+  <property name="kdenlive:monitorPosition">3</property>
+ </producer>
+ <playlist id="playlist28">
   <blank length="00:00:07.267"/>
   <entry in="00:00:00.000" out="00:00:00.967" producer="producer34">
    <property name="kdenlive:id">27</property>
-   <filter id="filter65">
+   <filter id="filter92">
     <property name="mlt_service">invert</property>
     <property name="kdenlive_id">invert</property>
    </filter>
@@ -5401,7 +6118,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <blank length="00:00:01.667"/>
   <entry in="00:00:02.867" out="00:00:03.667" producer="chain4">
    <property name="kdenlive:id">13</property>
-   <filter id="filter66">
+   <filter id="filter93">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -5412,9 +6129,9 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:04.867" out="00:00:06.600" producer="producer59">
+  <entry in="00:00:04.867" out="00:00:05.200" producer="producer69">
    <property name="kdenlive:id">6</property>
-   <filter id="filter67">
+   <filter id="filter94">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -5425,9 +6142,22 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:18.267" out="00:00:19.100" producer="producer60">
+  <entry in="00:00:06.100" out="00:00:07.467" producer="producer70">
    <property name="kdenlive:id">6</property>
-   <filter id="filter68">
+   <filter id="filter95">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:06.100=628 -32 1920 1920 1.000000</property>
+    <property name="rotation">00:00:06.100=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:18.267" out="00:00:19.100" producer="producer71">
+   <property name="kdenlive:id">6</property>
+   <filter id="filter96">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -5438,9 +6168,9 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:25.833" out="00:00:26.700" producer="producer61">
+  <entry in="00:00:25.833" out="00:00:26.700" producer="producer72">
    <property name="kdenlive:id">6</property>
-   <filter id="filter69">
+   <filter id="filter97">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -5451,9 +6181,9 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:56.233" out="00:00:57.033" producer="producer62">
+  <entry in="00:00:56.233" out="00:00:57.033" producer="producer73">
    <property name="kdenlive:id">7</property>
-   <filter id="filter70">
+   <filter id="filter98">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -5463,7 +6193,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="rotation">00:00:56.233=0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter71">
+   <filter id="filter99">
     <property name="mlt_service">crop</property>
     <property name="kdenlive_id">crop</property>
     <property name="top">0</property>
@@ -5478,7 +6208,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   </entry>
   <entry in="00:00:00.000" out="00:00:00.400" producer="chain10">
    <property name="kdenlive:id">42</property>
-   <filter id="filter72">
+   <filter id="filter100">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -5489,97 +6219,120 @@ Instagram » https://www.instagram.com/7newsaustralia/
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <blank length="00:00:01.700"/>
-  <entry in="00:00:00.000" out="00:00:00.000" producer="producer16">
-   <property name="kdenlive:id">40</property>
-   <filter id="filter73">
+  <blank length="00:00:12.400"/>
+  <entry in="00:00:00.000" out="00:00:00.300" producer="producer74">
+   <property name="kdenlive:id">93</property>
+   <filter id="filter101">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
-    <property name="rect">00:00:00.000=634 6 1920 1920 1.000000</property>
+    <property name="rect">00:00:00.000=300 11 1920 1920 1.000000</property>
     <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter74">
-    <property name="mlt_service">crop</property>
-    <property name="kdenlive_id">crop</property>
-    <property name="top">0</property>
-    <property name="left">221</property>
-    <property name="bottom">0</property>
-    <property name="right">0</property>
-    <property name="center">0</property>
-    <property name="center_bias">0</property>
-    <property name="use_profile">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry in="00:00:00.000" out="00:00:00.067" producer="producer16">
-   <property name="kdenlive:id">40</property>
-   <filter id="filter75">
+  <entry in="00:00:00.000" out="00:00:00.200" producer="producer74">
+   <property name="kdenlive:id">93</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter102">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:00.000=0.05</property>
+    <property name="columns">00:00:00.000=0.05</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter103">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <entry in="00:00:00.000" out="00:00:00.133" producer="producer74">
+   <property name="kdenlive:id">93</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter104">
+    <property name="version">0.9</property>
+    <property name="mlt_service">frei0r.cairoimagegrid</property>
+    <property name="kdenlive_id">frei0r.cairoimagegrid</property>
+    <property name="rows">00:00:00.000=0.1</property>
+    <property name="columns">00:00:00.000=0.105</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter105">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">1</property>
+    <property name="rect">00:00:00.000=0 0 1920 1920 1</property>
+    <property name="rotation">00:00:00.000=0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.033"/>
+  <entry in="00:00:00.000" out="00:00:00.067" producer="producer4">
+   <property name="kdenlive:id">25</property>
+   <filter id="filter106">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
-    <property name="rect">00:00:00.000=-195 -19 1323 1295 1.000000</property>
+    <property name="rect">00:00:00.000=0 378 1920 1920 1.000000</property>
     <property name="rotation">00:00:00.000=0</property>
     <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <blank length="00:00:00.100"/>
+  <entry in="00:00:00.000" out="00:00:00.067" producer="producer4">
+   <property name="kdenlive:id">25</property>
+   <filter id="filter107">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="rect">00:00:00.000=0 378 1920 1920 1.000000</property>
+    <property name="rotation">00:00:00.000=0</property>
    </filter>
   </entry>
  </playlist>
- <playlist id="playlist27"/>
- <tractor id="tractor13" in="00:00:00.000" out="00:00:19.233">
+ <playlist id="playlist29"/>
+ <tractor id="tractor14" in="00:00:00.000" out="00:00:30.867">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist26"/>
-  <track hide="audio" producer="playlist27"/>
+  <track hide="audio" producer="playlist28"/>
+  <track hide="audio" producer="playlist29"/>
  </tractor>
- <playlist id="playlist28">
-  <blank length="00:00:19.167"/>
-  <entry in="00:00:00.000" out="00:00:00.067" producer="producer16">
-   <property name="kdenlive:id">40</property>
-   <filter id="filter76">
+ <playlist id="playlist30">
+  <blank length="00:00:29.633"/>
+  <entry in="00:00:00.000" out="00:00:00.500" producer="producer74">
+   <property name="kdenlive:id">93</property>
+   <filter id="filter108">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
-    <property name="rect">00:00:00.000=733 -21 1357 1357 1.000000</property>
+    <property name="rect">00:00:00.000=-361 5 1920 1920 1.000000</property>
     <property name="rotation">00:00:00.000=0</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-   <filter id="filter77">
-    <property name="mlt_service">crop</property>
-    <property name="kdenlive_id">crop</property>
-    <property name="top">0</property>
-    <property name="left">243</property>
-    <property name="bottom">0</property>
-    <property name="right">110</property>
-    <property name="center">0</property>
-    <property name="center_bias">0</property>
-    <property name="use_profile">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
  </playlist>
- <playlist id="playlist29"/>
- <tractor id="tractor14" in="00:00:00.000" out="00:00:19.233">
-  <property name="kdenlive:trackheight">67</property>
-  <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">28</property>
-  <property name="kdenlive:thumbs_format"/>
-  <property name="kdenlive:audio_rec"/>
-  <track hide="audio" producer="playlist28"/>
-  <track hide="audio" producer="playlist29"/>
- </tractor>
- <playlist id="playlist30"/>
  <playlist id="playlist31"/>
- <tractor id="tractor15" in="00:00:00.000">
+ <tractor id="tractor15" in="00:00:00.000" out="00:00:30.133">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
   <property name="kdenlive:collapsed">28</property>
@@ -5593,7 +6346,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
  <tractor id="tractor16" in="00:00:00.000">
   <property name="kdenlive:trackheight">67</property>
   <property name="kdenlive:timeline_active">1</property>
-  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:collapsed">28</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
   <track hide="audio" producer="playlist32"/>
@@ -5610,12 +6363,23 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <track hide="audio" producer="playlist34"/>
   <track hide="audio" producer="playlist35"/>
  </tractor>
- <playlist id="playlist36">
+ <playlist id="playlist36"/>
+ <playlist id="playlist37"/>
+ <tractor id="tractor18" in="00:00:00.000">
+  <property name="kdenlive:trackheight">67</property>
+  <property name="kdenlive:timeline_active">1</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
+  <track hide="audio" producer="playlist36"/>
+  <track hide="audio" producer="playlist37"/>
+ </tractor>
+ <playlist id="playlist38">
   <property name="kdenlive:playlistid">timeline_preview</property>
  </playlist>
- <tractor id="tractor18" in="00:00:00.000" out="00:00:47.333">
-  <property name="kdenlive:duration">00:00:47.367</property>
-  <property name="kdenlive:maxduration">1421</property>
+ <tractor id="tractor19" in="00:00:00.000" out="00:00:32.067">
+  <property name="kdenlive:duration">00:00:32.100</property>
+  <property name="kdenlive:maxduration">963</property>
   <property name="kdenlive:clipname">Sequence 1</property>
   <property name="kdenlive:description"/>
   <property name="kdenlive:uuid">{21539263-3cf9-4533-becf-ddf070b54995}</property>
@@ -5625,22 +6389,22 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:clip_type">0</property>
   <property name="kdenlive:file_hash">3298b24f5974f64b63a1996af861b2ee</property>
   <property name="kdenlive:folderid">2</property>
-  <property name="kdenlive:sequenceproperties.activeTrack">15</property>
+  <property name="kdenlive:sequenceproperties.activeTrack">14</property>
   <property name="kdenlive:sequenceproperties.audioTarget">1</property>
   <property name="kdenlive:sequenceproperties.dirtypreviewchunks">0-300</property>
   <property name="kdenlive:sequenceproperties.disablepreview">0</property>
   <property name="kdenlive:sequenceproperties.documentuuid">{21539263-3cf9-4533-becf-ddf070b54995}</property>
   <property name="kdenlive:sequenceproperties.hasAudio">1</property>
   <property name="kdenlive:sequenceproperties.hasVideo">1</property>
-  <property name="kdenlive:sequenceproperties.position">892</property>
-  <property name="kdenlive:sequenceproperties.scrollPos">12707</property>
+  <property name="kdenlive:sequenceproperties.position">73</property>
+  <property name="kdenlive:sequenceproperties.scrollPos">0</property>
   <property name="kdenlive:sequenceproperties.tracks">4</property>
-  <property name="kdenlive:sequenceproperties.tracksCount">17</property>
+  <property name="kdenlive:sequenceproperties.tracksCount">18</property>
   <property name="kdenlive:sequenceproperties.verticalzoom">1</property>
   <property name="kdenlive:sequenceproperties.videoTarget">2</property>
   <property name="kdenlive:sequenceproperties.zonein">0</property>
   <property name="kdenlive:sequenceproperties.zoneout">693</property>
-  <property name="kdenlive:sequenceproperties.zoom">2</property>
+  <property name="kdenlive:sequenceproperties.zoom">4</property>
   <property name="kdenlive:sequenceproperties.groups">[
 ]
 </property>
@@ -5672,7 +6436,8 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <track producer="tractor15"/>
   <track producer="tractor16"/>
   <track producer="tractor17"/>
-  <track hide="both" producer="playlist36"/>
+  <track producer="tractor18"/>
+  <track hide="both" producer="playlist38"/>
   <transition id="transition0">
    <property name="a_track">0</property>
    <property name="b_track">1</property>
@@ -5864,14 +6629,25 @@ Instagram » https://www.instagram.com/7newsaustralia/
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter78">
+  <transition id="transition18">
+   <property name="a_track">0</property>
+   <property name="b_track">19</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="rotate_center">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="kdenlive_id">qtblend</property>
+   <property name="internal_added">237</property>
+   <property name="always_active">1</property>
+  </transition>
+  <filter id="filter109">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter79">
+  <filter id="filter110">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
@@ -6220,6 +6996,397 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <property name="kdenlive:audio_max1">241</property>
   <property name="kdenlive:monitorPosition">153</property>
  </chain>
+ <producer id="producer75" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000691.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">69</property>
+  <property name="kdenlive:control_uuid">{f35b8bf0-910a-4554-8ec3-98524ff07dca}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">9108480</property>
+  <property name="kdenlive:file_hash">41891f5ad9b0400628d83e95e3ad70ba</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer76" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000685.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">70</property>
+  <property name="kdenlive:control_uuid">{992cba23-6571-45a9-a100-461ef774cb88}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">7485440</property>
+  <property name="kdenlive:file_hash">55ada8765a3da5969d5ca42b1011b4b1</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer77" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000677.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">71</property>
+  <property name="kdenlive:control_uuid">{67c91201-7a89-4a24-99a7-333ba9950fdd}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">8573952</property>
+  <property name="kdenlive:file_hash">24f3630abc18feb17ba8cd76109d3643</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer78" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000672.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">72</property>
+  <property name="kdenlive:control_uuid">{5bb2001c-84da-4cca-9f37-5681744508a9}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">8235008</property>
+  <property name="kdenlive:file_hash">4e41d8014718d1605aae00280674387c</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer79" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000668.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">73</property>
+  <property name="kdenlive:control_uuid">{7f0a652d-8be1-4e1a-b392-61eb23cddf1f}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">8355328</property>
+  <property name="kdenlive:file_hash">32a6689f859a63c96359128885678e7a</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer80" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000667.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">74</property>
+  <property name="kdenlive:control_uuid">{c64e8ac5-e268-4f2c-8c11-1b9f08fa042c}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">8816128</property>
+  <property name="kdenlive:file_hash">3eccecfa720b72c048ff18f38ee85b0d</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer81" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000658.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">76</property>
+  <property name="kdenlive:control_uuid">{e58afcea-a024-4f72-bad2-c897fd81ea3e}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">9008128</property>
+  <property name="kdenlive:file_hash">9cd0baa87438b3a1c72d1b8e355c1043</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer82" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000651.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">5184</property>
+  <property name="meta.media.height">3456</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">79</property>
+  <property name="kdenlive:control_uuid">{f042464f-49f1-464e-b627-3f87c1237587}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">8106496</property>
+  <property name="kdenlive:file_hash">f27140b1ff381060f776ef8a1444f734</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer83" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/IMG_8645.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">2048</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">82</property>
+  <property name="kdenlive:control_uuid">{02fe118b-abcb-43e4-834a-65371526ff5f}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">522176</property>
+  <property name="kdenlive:file_hash">81d4805bf569d1ed16e36facd1a9999a</property>
+ </producer>
+ <producer id="producer84" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/P1000652.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">3456</property>
+  <property name="meta.media.height">5184</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">78</property>
+  <property name="kdenlive:control_uuid">{451dc04e-9849-4cb6-814b-47bd94e65604}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">8606208</property>
+  <property name="kdenlive:file_hash">eef2fdc1bb06034b1d8baa3808f4b55b</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer85" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/ExiZjaYUcAM-FY9.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1536</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">83</property>
+  <property name="kdenlive:control_uuid">{3d3e0df7-971b-4785-9a7c-e6e2de0bed20}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">524254</property>
+  <property name="kdenlive:file_hash">4fb58e217edfd52aee70ab5e362c3722</property>
+ </producer>
+ <producer id="producer86" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/ExiYUgrUUAUpMyX.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">2048</property>
+  <property name="meta.media.height">1536</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">84</property>
+  <property name="kdenlive:control_uuid">{7db59452-7029-4839-a3e3-2075d527ff77}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">415816</property>
+  <property name="kdenlive:file_hash">2805f7d783960d9937e1c67130676e99</property>
+ </producer>
+ <producer id="producer87" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/ExiFGobVgAEGrOa.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">2048</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">85</property>
+  <property name="kdenlive:control_uuid">{e99b4012-3896-4ec2-80ab-590449079712}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">510095</property>
+  <property name="kdenlive:file_hash">aece7898aecda7eae6156988852c9d26</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer88" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/asdsada/Exh-ws3VoAEyCaZ.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">1536</property>
+  <property name="meta.media.height">2048</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">86</property>
+  <property name="kdenlive:control_uuid">{1c514aee-e682-44d7-8fda-557fc0aca406}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">554936</property>
+  <property name="kdenlive:file_hash">92d894930d8ceeee362760267483559d</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer89" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/IMG_8590.JPG</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">4032</property>
+  <property name="meta.media.height">3024</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">89</property>
+  <property name="kdenlive:control_uuid">{62ab2a1e-4249-47e6-b401-b92c4100fb36}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">3394580</property>
+  <property name="kdenlive:file_hash">16639bbd94421134478a7e6632df67f3</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
+ <producer id="producer90" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/51051947136_0f183942f7_o.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">6592</property>
+  <property name="meta.media.height">4397</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">90</property>
+  <property name="kdenlive:control_uuid">{9c9da9fb-ea30-464c-aac1-392f73cf9501}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">21166447</property>
+  <property name="kdenlive:file_hash">6c39cd63d5e738b64ffdd35833c71e8d</property>
+ </producer>
+ <producer id="producer91" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/schmilly/Downloads/51051933296_8115fcd3aa_o.jpg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">1</property>
+  <property name="meta.media.width">7952</property>
+  <property name="meta.media.height">5304</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">91</property>
+  <property name="kdenlive:control_uuid">{ac30649d-8594-4b97-9d73-1800a877cf3f}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">25947653</property>
+  <property name="kdenlive:file_hash">bae8216991ab298c0574d22c616c9648</property>
+ </producer>
+ <producer id="producer92" in="00:00:00.000" out="00:00:04.967">
+  <property name="length">00:00:05.000</property>
+  <property name="eof">pause</property>
+  <property name="resource">Art/QR Codes/RAHU QR Code.svg</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="format">2</property>
+  <property name="meta.media.width">744</property>
+  <property name="meta.media.height">744</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:duration">00:00:05:00</property>
+  <property name="xml">was here</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">97</property>
+  <property name="kdenlive:control_uuid">{15d0fa0f-7400-4ac5-ad80-7311cea8c263}</property>
+  <property name="kdenlive:clip_type">2</property>
+  <property name="kdenlive:file_size">35212</property>
+  <property name="kdenlive:file_hash">0e17ddb17ce7428168c5b165d4995fb4</property>
+  <property name="kdenlive:monitorPosition">0</property>
+ </producer>
  <playlist id="main_bin">
   <property name="kdenlive:folder.-1.2">Sequences</property>
   <property name="kdenlive:folder.-1.28">Text</property>
@@ -6370,7 +7537,7 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <entry in="00:00:00.000" out="00:00:04.967" producer="producer44"/>
   <entry in="00:00:00.000" out="00:00:04.967" producer="producer43"/>
   <entry in="00:00:00.000" out="00:00:04.967" producer="producer38"/>
-  <entry in="00:00:00.000" out="00:01:08.500" producer="tractor18"/>
+  <entry in="00:00:00.000" out="00:01:08.500" producer="tractor19"/>
   <entry in="00:00:00.000" out="00:00:21.733" producer="chain13"/>
   <entry in="00:00:00.000" out="00:00:37.167" producer="chain16"/>
   <entry in="00:00:00.000" out="00:00:13.467" producer="chain23"/>
@@ -6378,14 +7545,41 @@ Instagram » https://www.instagram.com/7newsaustralia/
   <entry in="00:00:00.000" out="00:00:04.967" producer="producer51"/>
   <entry in="00:00:00.000" out="00:00:04.967" producer="producer52"/>
   <entry in="00:00:00.000" out="00:00:04.967" producer="producer53"/>
-  <entry in="00:00:00.000" out="00:00:04.967" producer="producer56"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer57"/>
   <entry in="00:00:00.000" out="00:00:07.100" producer="chain25"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer61"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer62"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer63"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer75"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer76"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer77"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer78"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer79"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer80"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer67"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer81"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer65"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer82"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer66"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer83"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer84"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer85"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer86"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer87"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer64"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer88"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer60"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer68"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer89"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer90"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer91"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer74"/>
   <entry in="00:00:00.000" out="00:00:04.967" producer="producer6"/>
-  <entry in="00:00:00.000" out="00:00:04.967" producer="producer19"/>
-  <entry in="00:00:00.000" out="00:00:04.967" producer="producer20"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer92"/>
+  <entry in="00:00:00.000" out="00:00:04.967" producer="producer7"/>
  </playlist>
- <tractor id="tractor19" in="00:00:00.000" out="00:00:47.333">
+ <tractor id="tractor20" in="00:00:00.000" out="00:00:32.067">
   <property name="kdenlive:projectTractor">1</property>
-  <track in="00:00:00.000" out="00:00:47.333" producer="tractor18"/>
+  <track in="00:00:00.000" out="00:00:32.067" producer="tractor19"/>
  </tractor>
 </mlt>
