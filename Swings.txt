@@ -1,0 +1,18 @@
+Using 2022 electorates
+Uniform Swing away from Coaliton and Labor equally from 2022 Results:
+
+Absolute Worse Case: -4.5
+Worst Case: -4.40 
+Below Average: +9.9 ('25 Redist not accounted)
+Median: 0 (Basically 2022 result minus Wills) (Ryan is kept until -4.45)
+Above Average: +1.95
+Best Case: +11.19 (Along with Cooper,Casey,Higgins,Boothby,Moreton)
+Absolute Best Case: +13.45 (+23 Seats for Greens)
+TRVTH NVKE: +12.42 (+17 Seats for Greens)
+
+Swing away from Labor to Greens from 2022 Results:
+Absolute Worse Case: -4.85
+Worst Case: -3.4
+Below Average: +8.57
+Median: 0 (Ryan is kept until -4.45)
+Above Average
